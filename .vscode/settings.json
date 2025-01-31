@@ -1,0 +1,16 @@
+
+    "git.allowNoVerifyCommit": true,
+    "git.autofetch": "all",
+    "git.autoStash": true,
+    "git.blame.editorDecoration.enabled": true,
+    "git.blame.editorDecoration.template": "",
+    "git.blame.statusBarItem.enabled": true,
+    "git.branchPrefix": "vscode://settings/git.allowNoVerifyCommit",
+    "git.branchRandomName.enable": true,
+    "git.branchValidationRegex": "dulce robles ",
+    "git.branchWhitespaceChar": "-dulce robles ",
+    "git.enableCommitSigning": true,
+    "git.ignoreLegacyWarning": true,
+    "ipynb.experimental.serialization": true,
+    "css.format.spaceAroundSelectorSeparator": true
+}
